@@ -4,8 +4,8 @@ Flutter developer building applications for Android and iOS.
 My experience includes API integration, state management,
 offline features, and mobile app deployment.
 
-I also build web interfaces with Jaspr, HTML, and CSS,
-and I'm currently developing my personal website.
+<!-- I also build web interfaces with Jaspr, HTML, and CSS,
+and I'm currently developing my personal website. -->
 
 ## Skills
 
